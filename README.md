@@ -1,8 +1,8 @@
 ## Overview:
 Spam classifier:
-An ML mini project that classifies messages as spam or not spam
-
+An ML mini project that recommends similar movies based on genre, cast, director, overview, etc.
 Uses python, scikit-learn, pandas, rapidfuzz
+uses TF-IDF vectorization and cosine similarity
 
 
 ## Installation:
