@@ -4,7 +4,6 @@ An ML mini project that classifies messages as spam or not spam
 
 Uses python, scikit-learn, pandas, rapidfuzz
 
-Model is a Multinomial naive-bayes with TF-IDF vectorization
 
 ## Installation:
 
